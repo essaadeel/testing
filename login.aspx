@@ -7,8 +7,8 @@
     <title></title>
     <style type="text/css">
         #form1 {
-            height: 200px;
-            width: 503px;
+            height: 180px;
+            width: 400px;
         }
         .auto-style1 {
             text-decoration: underline;
